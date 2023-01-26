@@ -1,4 +1,5 @@
-﻿namespace Fiskeprojekt
+﻿//Dan & Mark was here!
+namespace Fiskeprojekt
 {
     internal class Program
     {
